@@ -358,7 +358,6 @@ footer h3 {
   margin-left: 5px;
 }
 
-
 /* Мобильные телефоны */
 @media (max-width: 720px) {
    header {
@@ -449,6 +448,7 @@ footer h3 {
     margin-bottom: 30px;
   } 
 }
+
 /* Планшеты */
 @media (max-width: 1024px) {
   .about {
