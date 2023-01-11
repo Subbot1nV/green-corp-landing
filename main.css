@@ -42,6 +42,16 @@ header {
     padding: 15px;
   }
   
+  .about {
+    position: relative;
+}
+
+  .orb-canvas {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    right: 0;
+}
  
   .about__image {
     width: 500px;
@@ -182,7 +192,7 @@ footer h3 {
 
 @keyframes rotation {
   0% {
-      transform: rotate(0);
+      transform: rotate(0deg);
   }
 
   100% {
